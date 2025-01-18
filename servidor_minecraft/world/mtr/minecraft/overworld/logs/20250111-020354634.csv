@@ -1,0 +1,720 @@
+Timestamp,Player Name,Player UUID,Class,ID,Name,Position,Change,Old Data,New Data
+"2025-01-11T03:12:44.667Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(1369, 72, 52)
+(1394, 72, 52)","CREATE","{}","{
+  ""type"": ""SIDING"",
+  ""one_way"": false
+}"
+"2025-01-11T03:12:49.015Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(1369, 72, 49)
+(1394, 72, 49)","CREATE","{}","{
+  ""type"": ""SIDING"",
+  ""one_way"": false
+}"
+"2025-01-11T03:13:11.260Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(1366, 72, 52)
+(1369, 72, 52)","CREATE","{}","{
+  ""type"": ""WOODEN"",
+  ""one_way"": false
+}"
+"2025-01-11T03:13:13.509Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(1366, 72, 49)
+(1369, 72, 49)","CREATE","{}","{
+  ""type"": ""WOODEN"",
+  ""one_way"": false
+}"
+"2025-01-11T03:13:55.957Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(1340, 72, 52)
+(1366, 72, 52)","CREATE","{}","{
+  ""type"": ""PLATFORM"",
+  ""one_way"": false
+}"
+"2025-01-11T03:14:01.006Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(1340, 72, 49)
+(1366, 72, 49)","CREATE","{}","{
+  ""type"": ""PLATFORM"",
+  ""one_way"": false
+}"
+"2025-01-11T03:14:47.121Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(1323, 76, 49)
+(1340, 72, 49)","CREATE","{}","{
+  ""type"": ""WOODEN"",
+  ""one_way"": false
+}"
+"2025-01-11T03:14:51.924Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(1323, 76, 52)
+(1340, 72, 52)","CREATE","{}","{
+  ""type"": ""WOODEN"",
+  ""one_way"": false
+}"
+"2025-01-11T03:15:57.717Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(1297, 79, 49)
+(1323, 76, 49)","CREATE","{}","{
+  ""type"": ""IRON"",
+  ""one_way"": false
+}"
+"2025-01-11T03:16:13.466Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(1297, 79, 52)
+(1323, 76, 52)","CREATE","{}","{
+  ""type"": ""IRON"",
+  ""one_way"": false
+}"
+"2025-01-11T03:25:56.283Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(1184, 70, 49)
+(1297, 79, 49)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T03:25:57.971Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(1184, 70, 52)
+(1297, 79, 52)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T03:27:16.823Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(1038, 70, 52)
+(1184, 70, 52)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T03:27:18.318Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(1038, 70, 49)
+(1184, 70, 49)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T03:29:03.590Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(1038, 70, 52)
+(975, 70, 52)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T03:29:05.686Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(1038, 70, 49)
+(975, 70, 49)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T03:30:11.687Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(950, 70, 52)
+(975, 70, 52)","CREATE","{}","{
+  ""type"": ""PLATFORM"",
+  ""one_way"": false
+}"
+"2025-01-11T03:30:18.388Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(950, 70, 49)
+(975, 70, 49)","CREATE","{}","{
+  ""type"": ""PLATFORM"",
+  ""one_way"": false
+}"
+"2025-01-11T03:31:20.458Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Station","[2732092046995719396]","","","CREATE","{}","{
+  ""id"": 2732092046995719396,
+  ""transport_mode"": ""TRAIN"",
+  ""name"": """",
+  ""color"": 0,
+  ""x_min"": 942,
+  ""z_min"": 34,
+  ""x_max"": 982,
+  ""z_max"": 74,
+  ""zone"": 0,
+  ""exits"": {}
+}"
+"2025-01-11T03:31:42.684Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Station","[2732092046995719396]","Ex Esqueleto","","EDIT","{
+  ""name"": """",
+  ""color"": 0
+}","{
+  ""name"": ""Ex Esqueleto"",
+  ""color"": 14340630
+}"
+"2025-01-11T03:31:51.067Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Station","[-2940859490806632157]","","","CREATE","{}","{
+  ""id"": -2940859490806632157,
+  ""transport_mode"": ""TRAIN"",
+  ""name"": """",
+  ""color"": 0,
+  ""x_min"": 1328,
+  ""z_min"": 28,
+  ""x_max"": 1380,
+  ""z_max"": 76,
+  ""zone"": 0,
+  ""exits"": {}
+}"
+"2025-01-11T03:32:02.006Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Station","[-2940859490806632157]","Aldea","","EDIT","{
+  ""name"": """",
+  ""color"": 0
+}","{
+  ""name"": ""Aldea"",
+  ""color"": 10837965
+}"
+"2025-01-11T03:32:20.057Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Depot","[4641248639213929278]","","","CREATE","{}","{
+  ""id"": 4641248639213929278,
+  ""transport_mode"": ""TRAIN"",
+  ""name"": """",
+  ""color"": 0,
+  ""x_min"": 1367,
+  ""z_min"": 51,
+  ""x_max"": 1396,
+  ""z_max"": 54,
+  ""route_ids"": [],
+  ""use_real_time"": false,
+  ""repeat_infinitely"": false,
+  ""cruising_altitude"": 256,
+  ""frequencies"": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  ""departures"": []
+}"
+"2025-01-11T03:32:23.270Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Depot","[4641248639213929278]","1","","EDIT","{
+  ""name"": """",
+  ""color"": 0
+}","{
+  ""name"": ""1"",
+  ""color"": 11006534
+}"
+"2025-01-11T03:32:34.255Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Depot","[7491297489837489598]","","","CREATE","{}","{
+  ""id"": 7491297489837489598,
+  ""transport_mode"": ""TRAIN"",
+  ""name"": """",
+  ""color"": 0,
+  ""x_min"": 1367,
+  ""z_min"": 47,
+  ""x_max"": 1393,
+  ""z_max"": 50,
+  ""route_ids"": [],
+  ""use_real_time"": false,
+  ""repeat_infinitely"": false,
+  ""cruising_altitude"": 256,
+  ""frequencies"": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  ""departures"": []
+}"
+"2025-01-11T03:32:38.595Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Depot","[7491297489837489598]","","","EDIT","{
+  ""z_min"": 47,
+  ""x_max"": 1393,
+  ""z_max"": 50
+}","{
+  ""z_min"": 48,
+  ""x_max"": 1396,
+  ""z_max"": 51
+}"
+"2025-01-11T03:32:42.503Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Depot","[7491297489837489598]","2","","EDIT","{
+  ""name"": """",
+  ""color"": 0
+}","{
+  ""name"": ""2"",
+  ""color"": 6375879
+}"
+"2025-01-11T03:33:00.993Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Route","[3728048057335468304]","","","CREATE","{}","{
+  ""id"": 3728048057335468304,
+  ""transport_mode"": ""TRAIN"",
+  ""name"": """",
+  ""color"": 0,
+  ""platform_ids"": [
+    4112894711324190629
+  ],
+  ""custom_destinations"": [
+    """"
+  ],
+  ""route_type"": ""NORMAL"",
+  ""is_light_rail_route"": false,
+  ""is_route_hidden"": false,
+  ""disable_next_station_announcements"": false,
+  ""light_rail_route_number"": """",
+  ""circular_state"": ""NONE""
+}"
+"2025-01-11T03:33:10.844Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Route","[3728048057335468304]","","","EDIT","{
+  ""platform_ids"": [
+    4112894711324190629
+  ],
+  ""custom_destinations"": [
+    """"
+  ]
+}","{
+  ""platform_ids"": [
+    4112894711324190629,
+    8856239137531478106
+  ],
+  ""custom_destinations"": [
+    """",
+    """"
+  ]
+}"
+"2025-01-11T03:33:16.262Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Route","[3728048057335468304]","","","EDIT","{
+  ""platform_ids"": [
+    4112894711324190629,
+    8856239137531478106
+  ],
+  ""custom_destinations"": [
+    """",
+    """"
+  ]
+}","{
+  ""platform_ids"": [
+    4112894711324190629,
+    8856239137531478106,
+    4112894711324190629
+  ],
+  ""custom_destinations"": [
+    """",
+    """",
+    """"
+  ]
+}"
+"2025-01-11T03:33:23.758Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Route","[3728048057335468304]","1","","EDIT","{
+  ""name"": """",
+  ""color"": 0
+}","{
+  ""name"": ""1"",
+  ""color"": 14756264
+}"
+"2025-01-11T03:33:36.772Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Depot","[4641248639213929278]","1","","EDIT","{
+  ""frequencies"": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}","{
+  ""frequencies"": [
+    10,
+    10,
+    10,
+    10,
+    10,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}"
+"2025-01-11T03:34:00.340Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Depot","[4641248639213929278]","1","","EDIT","{
+  ""frequencies"": [
+    10,
+    10,
+    10,
+    10,
+    10,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}","{
+  ""frequencies"": [
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10
+  ]
+}"
+"2025-01-11T03:34:04.166Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Depot","[4641248639213929278]","1","","EDIT","{
+  ""route_ids"": []
+}","{
+  ""route_ids"": [
+    3728048057335468304
+  ]
+}"
+"2025-01-11T03:50:49.447Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(936, 70, 43)
+(950, 70, 49)","CREATE","{}","{
+  ""type"": ""WOODEN"",
+  ""one_way"": false
+}"
+"2025-01-11T03:51:34.948Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(936, 70, 46)
+(950, 70, 52)","CREATE","{}","{
+  ""type"": ""WOODEN"",
+  ""one_way"": false
+}"
+"2025-01-11T03:52:46.116Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(882, 80, 34)
+(936, 70, 43)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T03:52:50.043Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(882, 80, 37)
+(936, 70, 46)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T03:53:14.355Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(823, 88, 29)
+(882, 80, 34)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T03:53:16.008Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(823, 88, 32)
+(882, 80, 37)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T03:54:57.653Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(702, 93, 29)
+(823, 88, 29)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T03:54:59.904Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(702, 93, 32)
+(823, 88, 32)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T03:57:04.498Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(550, 107, 29)
+(702, 93, 29)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T03:57:05.909Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(550, 107, 32)
+(702, 93, 32)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T03:59:25.808Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.block.BlockNode","","","(377, 106, 29)","DELETE","{
+  ""type"": ""TRAIN""
+}","{}"
+"2025-01-11T03:59:32.857Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.block.BlockNode","","","(377, 106, 32)","DELETE","{
+  ""type"": ""TRAIN""
+}","{}"
+"2025-01-11T03:59:36.311Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(377, 106, 32)
+(550, 107, 32)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T03:59:38.266Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(377, 106, 29)
+(550, 107, 29)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:07:53.617Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(252, 106, -62)
+(377, 106, 29)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:07:57.218Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(249, 106, -62)
+(377, 106, 32)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:11:47.473Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(171, 68, -461)
+(252, 106, -62)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:11:49.673Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(168, 68, -461)
+(249, 106, -62)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:13:23.972Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(136, 74, -897)
+(168, 68, -461)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:13:35.472Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(139, 74, -897)
+(171, 68, -461)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:15:59.649Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(136, 74, -897)
+(136, 79, -1114)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:16:01.675Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(139, 74, -897)
+(139, 79, -1114)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:17:57.123Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-164, 76, -1240)
+(136, 79, -1114)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:18:01.122Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-164, 76, -1243)
+(139, 79, -1114)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:18:57.019Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.block.BlockNode","","","(-181, 73, -1240)","DELETE","{
+  ""type"": ""TRAIN""
+}","{}"
+"2025-01-11T04:19:02.106Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-164, 76, -1243)
+(-181, 73, -1243)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:19:04.817Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-164, 76, -1240)
+(-181, 73, -1240)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:20:29.399Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-181, 73, -1240)
+(-193, 69, -1240)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:20:30.697Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-181, 73, -1243)
+(-193, 69, -1243)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:23:15.222Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-193, 69, -1243)
+(-196, 69, -1243)","CREATE","{}","{
+  ""type"": ""WOODEN"",
+  ""one_way"": false
+}"
+"2025-01-11T04:23:17.522Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-193, 69, -1240)
+(-196, 69, -1240)","CREATE","{}","{
+  ""type"": ""WOODEN"",
+  ""one_way"": false
+}"
+"2025-01-11T04:27:59.005Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-196, 69, -1240)
+(-221, 69, -1240)","CREATE","{}","{
+  ""type"": ""PLATFORM"",
+  ""one_way"": false
+}"
+"2025-01-11T04:28:08.554Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-196, 69, -1243)
+(-221, 69, -1243)","CREATE","{}","{
+  ""type"": ""PLATFORM"",
+  ""one_way"": false
+}"
+"2025-01-11T04:28:41.715Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Station","[-7868040485467596162]","","","CREATE","{}","{
+  ""id"": -7868040485467596162,
+  ""transport_mode"": ""TRAIN"",
+  ""name"": """",
+  ""color"": 0,
+  ""x_min"": -220,
+  ""z_min"": -1251,
+  ""x_max"": -191,
+  ""z_max"": -1227,
+  ""zone"": 0,
+  ""exits"": {}
+}"
+"2025-01-11T04:29:00.915Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Station","[-7868040485467596162]","Aldea De Alejandro","","EDIT","{
+  ""name"": """",
+  ""color"": 0
+}","{
+  ""name"": ""Aldea De Alejandro"",
+  ""color"": 14057483
+}"
+"2025-01-11T04:29:29.703Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.block.BlockNode","","","(-196, 69, -1240)","DELETE","{
+  ""type"": ""TRAIN""
+}","{}"
+"2025-01-11T04:29:31.657Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.block.BlockNode","","","(-196, 69, -1243)","DELETE","{
+  ""type"": ""TRAIN""
+}","{}"
+"2025-01-11T04:29:47.963Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.block.BlockNode","","","(-196, 69, -1242)","DELETE","{
+  ""type"": ""TRAIN""
+}","{}"
+"2025-01-11T04:30:03.648Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-193, 69, -1240)
+(-198, 69, -1242)","CREATE","{}","{
+  ""type"": ""WOODEN"",
+  ""one_way"": false
+}"
+"2025-01-11T04:30:05.098Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-193, 69, -1243)
+(-198, 69, -1242)","CREATE","{}","{
+  ""type"": ""WOODEN"",
+  ""one_way"": false
+}"
+"2025-01-11T04:30:18.047Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-198, 69, -1242)
+(-221, 69, -1242)","CREATE","{}","{
+  ""type"": ""PLATFORM"",
+  ""one_way"": false
+}"
+"2025-01-11T04:30:21.498Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.block.BlockNode","","","(-221, 69, -1243)","DELETE","{
+  ""type"": ""TRAIN""
+}","{}"
+"2025-01-11T04:30:23.347Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.block.BlockNode","","","(-221, 69, -1240)","DELETE","{
+  ""type"": ""TRAIN""
+}","{}"
+"2025-01-11T04:31:05.752Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Route","[3728048057335468304]","1","","EDIT","{
+  ""platform_ids"": [
+    4112894711324190629,
+    8856239137531478106,
+    4112894711324190629
+  ],
+  ""custom_destinations"": [
+    """",
+    """",
+    """"
+  ]
+}","{
+  ""platform_ids"": [
+    8856239137531478106,
+    4112894711324190629
+  ],
+  ""custom_destinations"": [
+    """",
+    """"
+  ]
+}"
+"2025-01-11T04:31:06.107Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Route","[3728048057335468304]","1","","EDIT","{
+  ""platform_ids"": [
+    8856239137531478106,
+    4112894711324190629
+  ],
+  ""custom_destinations"": [
+    """",
+    """"
+  ]
+}","{
+  ""platform_ids"": [
+    4112894711324190629
+  ],
+  ""custom_destinations"": [
+    """"
+  ]
+}"
+"2025-01-11T04:31:06.401Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Route","[3728048057335468304]","1","","EDIT","{
+  ""platform_ids"": [
+    4112894711324190629
+  ],
+  ""custom_destinations"": [
+    """"
+  ]
+}","{
+  ""platform_ids"": [],
+  ""custom_destinations"": []
+}"
+"2025-01-11T04:31:13.447Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Route","[3728048057335468304]","1","","EDIT","{
+  ""platform_ids"": [],
+  ""custom_destinations"": []
+}","{
+  ""platform_ids"": [
+    4112894711324190629
+  ],
+  ""custom_destinations"": [
+    """"
+  ]
+}"
+"2025-01-11T04:31:20.849Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Route","[3728048057335468304]","1","","EDIT","{
+  ""platform_ids"": [
+    4112894711324190629
+  ],
+  ""custom_destinations"": [
+    """"
+  ]
+}","{
+  ""platform_ids"": [
+    4112894711324190629,
+    8856239137531478106
+  ],
+  ""custom_destinations"": [
+    """",
+    """"
+  ]
+}"
+"2025-01-11T04:31:27.699Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Route","[3728048057335468304]","1","","EDIT","{
+  ""platform_ids"": [
+    4112894711324190629,
+    8856239137531478106
+  ],
+  ""custom_destinations"": [
+    """",
+    """"
+  ]
+}","{
+  ""platform_ids"": [
+    4112894711324190629,
+    8856239137531478106,
+    7125875103425886793
+  ],
+  ""custom_destinations"": [
+    """",
+    """",
+    """"
+  ]
+}"
