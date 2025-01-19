@@ -270,3 +270,16 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [19Jan2025 15:49:32.910] [ForkJoinPool-5-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
 [19Jan2025 15:49:33.414] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
 [19Jan2025 15:49:33.416] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[19Jan2025 16:15:27.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
+[19Jan2025 16:15:27.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[19Jan2025 16:15:27.758] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[19Jan2025 16:15:27.759] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[19Jan2025 16:15:32.611] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e1c8ff2
+[19Jan2025 16:15:32.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.13.188.222:53861] logged in with entity id 11451 at (-1388.5709435519848, 38.0, -3407.5632962530326)
+[19Jan2025 16:15:32.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
+[19Jan2025 16:15:32.634] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
+[19Jan2025 16:15:32.635] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[19Jan2025 16:15:32.637] [ForkJoinPool-5-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[19Jan2025 16:15:32.638] [ForkJoinPool-5-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[19Jan2025 16:15:32.773] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
+[19Jan2025 16:15:32.774] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
