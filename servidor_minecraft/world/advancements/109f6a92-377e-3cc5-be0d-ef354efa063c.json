@@ -5100,6 +5100,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-19 23:33:28 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_flanged_mace": {
     "criteria": {
       "has_gold_ingot": "2025-01-19 22:53:02 +0000"

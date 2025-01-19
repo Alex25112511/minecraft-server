@@ -8909,6 +8909,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/tabby.png": "2025-01-19 23:18:31 +0000",
       "textures/entity/cat/jellie.png": "2025-01-19 23:06:10 +0000"
     },
     "done": false

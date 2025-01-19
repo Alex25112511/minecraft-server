@@ -781,3 +781,5 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [19Jan2025 23:02:26.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Straddle My Ol' Saddle]
 [19Jan2025 23:06:10.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Best Friends Forever]
 [19Jan2025 23:08:19.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Straddle My Ol' Saddle]
+[19Jan2025 23:39:07.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1395, y=65, z=67} BlockPos{x=1395, y=64, z=68}
+[19Jan2025 23:39:07.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1395, y=65, z=67} BlockPos{x=1395, y=64, z=68}
