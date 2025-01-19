@@ -744,3 +744,12 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [19Jan2025 22:02:56.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GhostSaintRD> yo no tengo comida
 [19Jan2025 22:03:02.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GhostSaintRD> ven dame comida ahora
 [19Jan2025 22:03:39.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> ya te puede meter a la llamada bryan
+[19Jan2025 22:17:31.798] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/262809, l='ServerLevel[world]', x=1344.50, y=53.00, z=475.50]
+[19Jan2025 22:18:13.699] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/263817, l='ServerLevel[world]', x=1231.50, y=53.00, z=979.50]
+[19Jan2025 22:23:00.799] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/268597, l='ServerLevel[world]', x=1232.50, y=54.00, z=977.50]
+[19Jan2025 22:26:38.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael moved too quickly! -7.98961528428481,15.780806507560698,7.889223568637732
+[19Jan2025 22:27:21.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has reached the goal [Sky's the Limit]
+[19Jan2025 22:27:51.632] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[19Jan2025 22:28:02.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[19Jan2025 22:28:18.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[19Jan2025 22:29:19.687] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
