@@ -17,3 +17,13 @@ Timestamp,Player Name,Player UUID,Class,ID,Name,Position,Change,Old Data,New Dat
 "2025-01-19T20:48:21.773Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.block.BlockNode","","","(1368, 70, 19)","DELETE","{
   ""type"": ""TRAIN""
 }","{}"
+"2025-01-19T21:37:26.168Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(1184, 70, 49)
+(1287, 72, 49)","CREATE","{}","{
+  ""type"": ""DIAMOND"",
+  ""one_way"": false
+}"
+"2025-01-19T21:37:27.514Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(1184, 70, 52)
+(1287, 72, 52)","CREATE","{}","{
+  ""type"": ""DIAMOND"",
+  ""one_way"": false
+}"

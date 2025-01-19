@@ -684,3 +684,30 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [19Jan2025 21:28:01.086] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
 [19Jan2025 21:28:01.086] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
 [19Jan2025 21:28:02.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> ale tu sabes comos se llamada el programa para poner musicas
+[19Jan2025 21:30:49.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! -2.961552570786125,-17.46087821592718,2.6810232485809875
+[19Jan2025 21:32:28.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[19Jan2025 21:32:58.732] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f1f72e8
+[19Jan2025 21:32:58.743] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.95.223.119:52319] logged in with entity id 237109 at (1289.6690239964448, 80.0, 28.36903459690219)
+[19Jan2025 21:32:58.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
+[19Jan2025 21:32:58.804] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
+[19Jan2025 21:32:58.805] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[19Jan2025 21:32:58.808] [ForkJoinPool-5-worker-10/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[19Jan2025 21:32:58.810] [ForkJoinPool-5-worker-10/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[19Jan2025 21:32:58.962] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
+[19Jan2025 21:32:58.963] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[19Jan2025 21:33:07.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> klk
+[19Jan2025 21:33:12.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> tepeame
+[19Jan2025 21:33:39.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> ale
+[19Jan2025 21:33:45.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> voy
+[19Jan2025 21:33:52.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> ale tu sabes como se llama el programa q ahy en discord para poner musica???
+[19Jan2025 21:34:02.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> no
+[19Jan2025 21:34:08.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> preguntale a yeff
+[19Jan2025 21:35:44.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[19Jan2025 21:36:08.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GhostSaintRD> se puede dormir
+[19Jan2025 21:36:11.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> si
+[19Jan2025 21:36:12.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GhostSaintRD> ???
+[19Jan2025 21:37:03.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> ale
+[19Jan2025 21:37:06.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> tp
+[19Jan2025 21:38:24.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[19Jan2025 21:38:48.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> ale xd
+[19Jan2025 21:38:50.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> tp
