@@ -333,3 +333,29 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [19Jan2025 18:33:05.554] [ForkJoinPool-5-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
 [19Jan2025 18:33:05.764] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
 [19Jan2025 18:33:05.764] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[19Jan2025 18:54:15.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Eye Spy]
+[19Jan2025 18:56:39.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-276, y=115, z=-456} BlockPos{x=-276, y=116, z=-455}
+[19Jan2025 18:56:39.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-276, y=115, z=-456} BlockPos{x=-276, y=116, z=-455}
+[19Jan2025 18:56:39.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-276, y=115, z=-456} BlockPos{x=-276, y=116, z=-455}
+[19Jan2025 18:56:39.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-276, y=115, z=-456} BlockPos{x=-276, y=116, z=-455}
+[19Jan2025 18:56:39.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-275, y=114, z=-453} BlockPos{x=-276, y=116, z=-455}
+[19Jan2025 18:56:39.420] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-276, y=114, z=-455} BlockPos{x=-276, y=116, z=-455}
+[19Jan2025 18:56:41.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-279, y=115, z=-455} BlockPos{x=-278, y=116, z=-455}
+[19Jan2025 18:56:41.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-279, y=115, z=-455} BlockPos{x=-278, y=116, z=-455}
+[19Jan2025 18:56:41.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-280, y=114, z=-455} BlockPos{x=-278, y=116, z=-455}
+[19Jan2025 18:56:50.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-283, y=115, z=-446} BlockPos{x=-283, y=114, z=-446}
+[19Jan2025 18:56:50.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=114, z=-446} BlockPos{x=-283, y=114, z=-446}
+[19Jan2025 18:57:12.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-292, y=122, z=-451} BlockPos{x=-291, y=122, z=-451}
+[19Jan2025 18:57:12.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-292, y=122, z=-451} BlockPos{x=-291, y=122, z=-451}
+[19Jan2025 19:00:24.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has completed the challenge [Hot Tourist Destinations]
+[19Jan2025 19:01:18.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Eye Spy]
+[19Jan2025 19:01:44.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [The End?]
+[19Jan2025 19:01:45.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 2462.305182836364,38.75839806617738,3875.6879915973273
+[19Jan2025 19:01:47.799] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[19Jan2025 19:01:47.800] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[19Jan2025 19:01:48.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [The End?]
+[19Jan2025 19:01:48.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [The End?]
+[19Jan2025 19:01:48.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2815ms or 56 ticks behind
+[19Jan2025 19:01:48.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael moved too quickly! 2461.969811806074,38.32352912385573,3875.0678401050563
+[19Jan2025 19:01:49.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 moved too quickly! 2461.4176391649858,38.46415937495544,3875.208923644786
+[19Jan2025 19:04:03.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael is bleeding. EddyChael was slain by Enderman

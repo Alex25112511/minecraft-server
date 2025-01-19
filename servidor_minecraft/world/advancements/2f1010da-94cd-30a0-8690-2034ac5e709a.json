@@ -1913,9 +1913,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-29 00:26:55 +0000",
       "minecraft:nether_wastes": "2024-12-29 00:23:38 +0000",
-      "minecraft:warped_forest": "2024-12-29 00:55:01 +0000"
+      "minecraft:soul_sand_valley": "2025-01-19 19:00:24 +0000",
+      "minecraft:warped_forest": "2024-12-29 00:55:01 +0000",
+      "minecraft:basalt_deltas": "2025-01-19 18:59:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/create.palettes/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
@@ -5499,6 +5501,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-01-19 19:01:18 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/saguaro_juice": {
     "criteria": {
       "has_saguaro": "2024-12-22 14:33:55 +0000"
@@ -5610,6 +5618,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-01-12 20:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-19 19:01:48 +0000"
     },
     "done": true
   },
@@ -8393,6 +8407,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-28 01:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-19 19:01:48 +0000"
     },
     "done": true
   },
