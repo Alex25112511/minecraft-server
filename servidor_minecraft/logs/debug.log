@@ -9053,3 +9053,22 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [19Jan2025 18:40:24.597] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=171, y=120, z=3} in ResourceKey[minecraft:dimension / minecraft:the_nether]
 [19Jan2025 18:42:44.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Jan2025 18:42:44.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 18:47:27.816] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[19Jan2025 18:47:27.830] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-281, y=120, z=-496} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[19Jan2025 18:47:27.831] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-281, y=120, z=-496} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[19Jan2025 18:47:41.719] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[19Jan2025 18:47:41.722] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-2363, y=13, z=-3857} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[19Jan2025 18:47:41.724] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-2363, y=13, z=-3857} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[19Jan2025 18:47:44.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 18:47:44.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 18:47:49.618] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[19Jan2025 18:47:49.621] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-281, y=120, z=-496} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[19Jan2025 18:47:49.622] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-281, y=120, z=-496} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[19Jan2025 18:52:13.530] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Jan2025 18:52:18.983] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Garetexe: {disabled=false, disconnected=true, uuid=e6153624-6ec9-3768-bf1f-51eb9dc95640, name=Garetexe, group=null}
+[19Jan2025 18:52:20.418] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[19Jan2025 18:52:20.428] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=1374, y=71, z=27} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[19Jan2025 18:52:20.430] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=1374, y=71, z=27} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[19Jan2025 18:52:44.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 18:52:44.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 18:53:46.172] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
