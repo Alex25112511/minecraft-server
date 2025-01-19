@@ -557,6 +557,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/food/cooked_catfish_campfire": {
+    "criteria": {
+      "has_items": "2025-01-19 23:42:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-22 15:53:11 +0000"
@@ -3116,6 +3122,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/food/cooked_catfish": {
+    "criteria": {
+      "has_items": "2025-01-19 23:42:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 15:53:11 +0000"
@@ -4577,6 +4589,12 @@
   "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-23 03:22:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/food/cooked_catfish_smoke": {
+    "criteria": {
+      "has_items": "2025-01-19 23:42:10 +0000"
     },
     "done": true
   },
