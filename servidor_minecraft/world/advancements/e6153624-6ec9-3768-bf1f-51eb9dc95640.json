@@ -401,6 +401,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/misc/mosquito_larva": {
+    "criteria": {
+      "has_items": "2025-01-19 20:17:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/ancient_debris_mine": {
     "criteria": {
       "has_mine": "2024-12-23 03:16:36 +0000"
@@ -5521,6 +5527,7 @@
       "minecraft:phantom": "2025-01-12 16:57:34 +0000",
       "minecraft:zombified_piglin": "2024-12-29 00:24:57 +0000",
       "minecraft:wither_skeleton": "2025-01-12 20:02:09 +0000",
+      "minecraft:shulker": "2025-01-19 20:13:27 +0000",
       "minecraft:cave_spider": "2024-12-23 03:51:48 +0000",
       "minecraft:piglin": "2024-12-29 00:53:58 +0000",
       "minecraft:enderman": "2024-12-28 23:43:44 +0000",
@@ -6509,6 +6516,7 @@
       "minecraft:snowy_plains": "2025-01-12 04:43:24 +0000",
       "minecraft:dripstone_caves": "2024-12-23 02:59:51 +0000",
       "minecraft:grove": "2025-01-18 03:40:33 +0000",
+      "minecraft:swamp": "2025-01-19 20:00:20 +0000",
       "minecraft:jagged_peaks": "2024-12-23 03:46:43 +0000",
       "minecraft:cold_ocean": "2025-01-12 01:41:42 +0000",
       "minecraft:forest": "2024-12-23 03:55:33 +0000",
@@ -8678,6 +8686,12 @@
   "croptopia:recipes/croptopia.croptopia/peach_jam": {
     "criteria": {
       "has_peach": "2024-12-23 03:45:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/combat/blood_sprayer": {
+    "criteria": {
+      "has_items": "2025-01-19 20:17:24 +0000"
     },
     "done": true
   },
