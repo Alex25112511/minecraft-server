@@ -8444,3 +8444,39 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [19Jan2025 18:10:11.075] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
 [19Jan2025 18:10:11.523] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
 [19Jan2025 18:10:11.523] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[19Jan2025 18:12:33.381] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[19Jan2025 18:12:33.843] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[19Jan2025 18:12:33.843] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[19Jan2025 18:12:33.844] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[19Jan2025 18:12:33.844] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[19Jan2025 18:12:34.974] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[19Jan2025 18:12:35.621] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[19Jan2025 18:12:35.622] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[19Jan2025 18:12:35.622] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[19Jan2025 18:12:36.825] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[19Jan2025 18:12:37.937] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[19Jan2025 18:12:38.026] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[19Jan2025 18:12:38.193] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[19Jan2025 18:12:38.716] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[19Jan2025 18:12:38.851] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[19Jan2025 18:12:39.047] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[19Jan2025 18:12:39.209] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[19Jan2025 18:12:39.453] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[19Jan2025 18:12:39.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[19Jan2025 18:12:44.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 18:12:44.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 18:12:52.113] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4f3c26b0
+[19Jan2025 18:14:52.274] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[19Jan2025 18:14:52.308] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=1374, y=71, z=27} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[19Jan2025 18:14:52.311] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=1374, y=71, z=27} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[19Jan2025 18:17:18.168] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[19Jan2025 18:17:18.207] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=172, y=56, z=3} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[19Jan2025 18:17:18.208] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=172, y=56, z=3} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[19Jan2025 18:17:44.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 18:17:44.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 18:19:07.742] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[19Jan2025 18:19:08.218] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[19Jan2025 18:19:08.218] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[19Jan2025 18:19:09.228] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[19Jan2025 18:22:44.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 18:22:44.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

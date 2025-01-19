@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_polished_diorite_slab_from_reinforced_diorite_stonecutting": {
+    "criteria": {
+      "has_reinforced_diorite": "2025-01-19 18:10:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_boomerang": {
     "criteria": {
       "has_cobblestone": "2024-12-28 01:45:36 +0000"
@@ -1129,6 +1135,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_diorite_stairs": {
+    "criteria": {
+      "has_block": "2025-01-19 18:10:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_rapier": {
     "criteria": {
       "has_cobblestone": "2024-12-28 01:45:36 +0000"
@@ -1594,6 +1606,12 @@
   "comforts:rope_and_nail": {
     "criteria": {
       "has_iron": "2024-12-22 00:47:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite_wall": {
+    "criteria": {
+      "has_block": "2025-01-19 18:10:38 +0000"
     },
     "done": true
   },
@@ -2617,6 +2635,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_diorite_slab_from_reinforced_diorite_stonecutting": {
+    "criteria": {
+      "has_reinforced_diorite": "2025-01-19 18:10:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-01-12 01:25:26 +0000"
@@ -2632,6 +2656,12 @@
   "securitycraft:recipes/securitycraft/keypad_frame": {
     "criteria": {
       "has_redstone": "2024-12-22 15:12:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite_wall_from_reinforced_diorite_stonecutting": {
+    "criteria": {
+      "has_reinforced_diorite": "2025-01-19 18:10:37 +0000"
     },
     "done": true
   },
@@ -3514,6 +3544,12 @@
   "securitycraft:recipes/securitycraft/reinforced_normal_stone_slab_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_reinforced_stone": "2024-12-27 19:50:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite_slab": {
+    "criteria": {
+      "has_block": "2025-01-19 18:10:38 +0000"
     },
     "done": true
   },
@@ -5138,6 +5174,12 @@
   "create:recipes/create.palettes/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-01-12 00:36:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_polished_diorite_from_reinforced_diorite_stonecutting": {
+    "criteria": {
+      "has_reinforced_diorite": "2025-01-19 18:10:37 +0000"
     },
     "done": true
   },
@@ -7870,6 +7912,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_diorite_stairs_from_reinforced_diorite_stonecutting": {
+    "criteria": {
+      "has_reinforced_diorite": "2025-01-19 18:10:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-27 20:58:07 +0000"
@@ -8470,6 +8518,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_polished_diorite": {
+    "criteria": {
+      "has_block": "2025-01-19 18:10:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-12-22 00:02:56 +0000"
@@ -8539,6 +8593,12 @@
   "create:recipes/create.palettes/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-22 00:59:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_polished_diorite_stairs_from_reinforced_diorite_stonecutting": {
+    "criteria": {
+      "has_reinforced_diorite": "2025-01-19 18:10:38 +0000"
     },
     "done": true
   },

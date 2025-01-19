@@ -316,3 +316,4 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [19Jan2025 17:49:56.286] [Server thread/INFO] [com.lothrazar.storagenetwork.StorageNetworkMod/]: BlockPos{x=-272, y=-3, z=-1251}
 [19Jan2025 17:52:02.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> scythe
 [19Jan2025 18:05:32.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> xaero-waypoint:Home:H:1401:64:-47:6:false:0:Internal-overworld-waypoints
+[19Jan2025 18:12:52.113] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4f3c26b0
