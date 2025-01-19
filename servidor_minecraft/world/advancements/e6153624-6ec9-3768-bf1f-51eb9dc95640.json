@@ -1098,6 +1098,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-19 23:06:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_crimson_fence": {
     "criteria": {
       "has_stick": "2024-12-22 20:44:05 +0000"
@@ -8900,6 +8906,12 @@
       "has_stick": "2024-12-28 22:15:57 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/jellie.png": "2025-01-19 23:06:10 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/securitycraft/secret_birch_sign_item": {
     "criteria": {
