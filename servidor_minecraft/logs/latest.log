@@ -557,3 +557,20 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [19Jan2025 20:25:28.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! -1.4132468809370948,2.0567639725905025,64.0169755973111
 [19Jan2025 20:25:28.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! -1.4132468809370948,2.0567639725905025,64.87253120245441
 [19Jan2025 20:25:29.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! -1.4132468809370948,2.0567639725905025,65.94475349487766
+[19Jan2025 20:26:23.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael moved too quickly! 18.23459801798299,-1.8025179726079585,-2.828753220503245
+[19Jan2025 20:26:23.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 18.458070169346684,-1.1925669759779396,-1.0608844712153314
+[19Jan2025 20:26:28.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael moved too quickly! 17.87603459892989,-1.660984771127815,-3.734271052615213
+[19Jan2025 20:26:28.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 16.09782101978226,-3.353276660694547,-7.796110212269468
+[19Jan2025 20:27:19.473] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[19Jan2025 20:27:22.279] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[19Jan2025 20:32:45.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> ghost por que no entras a la llamada ?
+[19Jan2025 20:33:37.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=161, y=106, z=1} BlockPos{x=161, y=107, z=1}
+[19Jan2025 20:35:21.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> miara
+[19Jan2025 20:35:24.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> ghos
+[19Jan2025 20:35:28.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> toma
+[19Jan2025 20:35:32.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> mira
+[19Jan2025 20:36:08.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GhostSaintRD> tranks you
+[19Jan2025 20:36:20.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD is bleeding. GhostSaintRD was slain by Garetexe
+[19Jan2025 20:36:26.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GhostSaintRD> pero cñ
+[19Jan2025 20:36:29.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> pa que aprenda a responder
+[19Jan2025 20:36:37.387] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
