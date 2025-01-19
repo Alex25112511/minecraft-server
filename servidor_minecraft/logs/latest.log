@@ -359,3 +359,47 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [19Jan2025 19:01:48.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael moved too quickly! 2461.969811806074,38.32352912385573,3875.0678401050563
 [19Jan2025 19:01:49.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 moved too quickly! 2461.4176391649858,38.46415937495544,3875.208923644786
 [19Jan2025 19:04:03.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael is bleeding. EddyChael was slain by Enderman
+[19Jan2025 19:06:59.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Free the End]
+[19Jan2025 19:07:50.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has reached the goal [The Next Generation]
+[19Jan2025 19:07:57.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has reached the goal [The Next Generation]
+[19Jan2025 19:08:02.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has reached the goal [The Next Generation]
+[19Jan2025 19:08:07.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=62, z=-5} BlockPos{x=-4, y=64, z=0}
+[19Jan2025 19:08:49.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Remote Getaway]
+[19Jan2025 19:09:27.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Remote Getaway]
+[19Jan2025 19:09:28.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Remote Getaway]
+[19Jan2025 19:09:31.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Ender Distancing]
+[19Jan2025 19:10:33.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Ender Distancing]
+[19Jan2025 19:10:37.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Capsid-19]
+[19Jan2025 19:11:39.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [The City at the End of the Game]
+[19Jan2025 19:11:51.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has reached the goal [Sky's the Limit]
+[19Jan2025 19:12:01.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [The City at the End of the Game]
+[19Jan2025 19:12:02.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [The Bender of the 15th Century]
+[19Jan2025 19:12:09.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Old School Defense]
+[19Jan2025 19:12:54.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Timed out
+[19Jan2025 19:12:54.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[19Jan2025 19:12:54.857] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[19Jan2025 19:12:54.857] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[19Jan2025 19:12:54.947] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jan2025 19:12:57.762] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1f9789e5
+[19Jan2025 19:12:57.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.95.223.119:49383] logged in with entity id 86333 at (1431.2668630102667, 69.22919817769277, 981.6798427277879)
+[19Jan2025 19:12:57.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
+[19Jan2025 19:12:57.778] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
+[19Jan2025 19:12:57.779] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[19Jan2025 19:12:57.782] [ForkJoinPool-5-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[19Jan2025 19:12:57.783] [ForkJoinPool-5-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[19Jan2025 19:12:57.968] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
+[19Jan2025 19:12:57.968] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[19Jan2025 19:14:42.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> xaero-waypoint:cyty:C:2392:184:-661:8:false:0:Internal-the-end-waypoints
+[19Jan2025 19:16:03.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael is bleeding. EddyChael fell out of the world
+[19Jan2025 19:16:04.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael moved too quickly! 0.4484436565660417,-20.950385096243508,-0.1770462988673387
+[19Jan2025 19:16:04.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael fell out of the world
+[19Jan2025 19:16:11.045] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[19Jan2025 19:16:12.297] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/89982, l='ServerLevel[world]', x=4.50, y=48.00, z=-79.50]
+[19Jan2025 19:17:58.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Timed out
+[19Jan2025 19:17:58.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[19Jan2025 19:17:58.410] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[19Jan2025 19:17:58.410] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[19Jan2025 19:20:27.117] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[19Jan2025 19:20:49.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> xaero-waypoint:Home:H:1401:64:-47:6:false:0:Internal-overworld-waypoints
+[19Jan2025 19:29:18.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1302, y=72, z=45} BlockPos{x=170, y=112, z=12}
+[19Jan2025 19:29:18.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1302, y=72, z=45} BlockPos{x=170, y=112, z=12}
