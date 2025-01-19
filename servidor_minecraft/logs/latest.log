@@ -677,3 +677,10 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [19Jan2025 21:15:14.970] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1343, y=68, z=200} BlockPos{x=1343, y=68, z=199}
 [19Jan2025 21:15:15.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1343, y=68, z=200} BlockPos{x=1343, y=68, z=199}
 [19Jan2025 21:15:25.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1332, y=68, z=204} BlockPos{x=1332, y=67, z=206}
+[19Jan2025 21:24:28.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GhostSaintRD> puedo dormir
+[19Jan2025 21:24:32.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> SI
+[19Jan2025 21:28:01.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
+[19Jan2025 21:28:01.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[19Jan2025 21:28:01.086] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[19Jan2025 21:28:01.086] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[19Jan2025 21:28:02.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> ale tu sabes comos se llamada el programa para poner musicas
