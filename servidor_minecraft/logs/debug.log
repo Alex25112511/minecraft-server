@@ -8850,3 +8850,13 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [19Jan2025 16:54:20.308] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [19Jan2025 16:59:10.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Jan2025 16:59:10.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 17:04:10.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 17:04:10.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 17:05:02.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Timed out
+[19Jan2025 17:05:02.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[19Jan2025 17:05:02.231] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of elblak004
+[19Jan2025 17:05:02.231] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[19Jan2025 17:05:02.231] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[19Jan2025 17:05:02.271] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jan2025 17:09:10.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 17:09:10.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
