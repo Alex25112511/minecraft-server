@@ -317,3 +317,19 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [19Jan2025 17:52:02.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> scythe
 [19Jan2025 18:05:32.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> xaero-waypoint:Home:H:1401:64:-47:6:false:0:Internal-overworld-waypoints
 [19Jan2025 18:12:52.113] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4f3c26b0
+[19Jan2025 18:26:49.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> xaero-waypoint:Potal casa Eddy y guillermo:P:170:56:3:3:false:0:Internal-the-nether-waypoints
+[19Jan2025 18:31:10.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [A Bigger Blade]
+[19Jan2025 18:32:51.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 moved too quickly! 10.746502071619034,0.0,0.0
+[19Jan2025 18:32:51.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
+[19Jan2025 18:32:51.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[19Jan2025 18:32:51.389] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[19Jan2025 18:32:51.390] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[19Jan2025 18:33:05.527] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5c8ef60c
+[19Jan2025 18:33:05.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.95.223.119:33063] logged in with entity id 52585 at (986.9932000590488, 71.0, 52.7045578956604)
+[19Jan2025 18:33:05.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
+[19Jan2025 18:33:05.549] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
+[19Jan2025 18:33:05.550] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[19Jan2025 18:33:05.553] [ForkJoinPool-5-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[19Jan2025 18:33:05.554] [ForkJoinPool-5-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[19Jan2025 18:33:05.764] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
+[19Jan2025 18:33:05.764] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
