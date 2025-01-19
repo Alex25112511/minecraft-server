@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-01-19 23:08:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-11 02:37:22 +0000"
@@ -2287,6 +2293,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-01-19 23:08:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-01-12 04:27:07 +0000"
@@ -2638,6 +2650,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-01-19 22:47:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/transportation/straddle_saddle": {
+    "criteria": {
+      "has_items": "2025-01-19 23:08:31 +0000"
     },
     "done": true
   },
@@ -3607,6 +3625,7 @@
       "minecraft:pillager": "2025-01-12 00:38:05 +0000",
       "minecraft:skeleton": "2025-01-11 21:47:47 +0000",
       "minecraft:vindicator": "2025-01-12 02:02:06 +0000",
+      "minecraft:magma_cube": "2025-01-19 23:08:52 +0000",
       "minecraft:spider": "2025-01-11 22:43:46 +0000",
       "minecraft:creeper": "2025-01-11 18:26:11 +0000",
       "minecraft:phantom": "2025-01-12 03:44:35 +0000",
@@ -3795,6 +3814,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_halberd": {
     "criteria": {
       "has_gold_ingot": "2025-01-19 22:53:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/misc/straddle_helmet": {
+    "criteria": {
+      "has_items": "2025-01-19 23:08:31 +0000"
     },
     "done": true
   },
@@ -4985,6 +5010,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/building_blocks/straddlite_block": {
+    "criteria": {
+      "has_items": "2025-01-19 23:08:31 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_rapier": {
     "criteria": {
       "has_diamond": "2025-01-12 17:27:39 +0000"
@@ -5528,6 +5559,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-12 01:43:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/transportation/straddleboard": {
+    "criteria": {
+      "has_items": "2025-01-19 23:08:31 +0000"
     },
     "done": true
   },
