@@ -20728,3 +20728,50 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [20Jan2025 01:42:49.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Jan2025 01:42:49.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Jan2025 01:44:17.313] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Jan2025 01:47:49.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jan2025 01:47:49.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jan2025 01:49:49.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> guillermo
+[20Jan2025 01:49:58.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> estas vivo
+[20Jan2025 01:51:18.287] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:51:19.604] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:51:34.903] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Jan2025 01:51:34.953] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Jan2025 01:51:35.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> estas vivo
+[20Jan2025 01:51:36.634] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:51:37.141] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:51:38.452] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:51:39.340] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:51:39.802] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:51:40.235] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:51:42.089] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:51:42.605] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:51:43.143] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:51:45.803] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:51:47.586] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:51:50.639] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:51:50.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael is bleeding. EddyChael was slain by Garetexe
+[20Jan2025 01:51:57.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> aja
+[20Jan2025 01:52:05.592] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:52:09.602] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Jan2025 01:52:09.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> com,ida
+[20Jan2025 01:52:11.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> dame
+[20Jan2025 01:52:16.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> plos
+[20Jan2025 01:52:22.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> traeme gatos
+[20Jan2025 01:52:40.938] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:52:40.938] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Jan2025 01:52:44.704] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:52:46.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> aqui ahy uno
+[20Jan2025 01:52:49.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jan2025 01:52:49.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jan2025 01:52:52.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> si pero
+[20Jan2025 01:52:57.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> nse
+[20Jan2025 01:53:00.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> puedes entrar a la llamada
+[20Jan2025 01:53:02.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> nesesito 3 mas
+[20Jan2025 01:53:04.943] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:53:06.437] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:53:28.053] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:53:28.903] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Jan2025 01:53:33.773] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of EddyChael: {disabled=false, disconnected=true, uuid=2f1010da-94cd-30a0-8690-2034ac5e709a, name=EddyChael, group=null}
+[20Jan2025 01:53:50.606] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:53:52.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[20Jan2025 01:54:32.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> bro me rompiste mi escudo bro wtf
