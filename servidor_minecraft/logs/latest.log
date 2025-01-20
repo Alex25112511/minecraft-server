@@ -38,3 +38,4 @@
 [20Jan2025 00:32:49.678] [ForkJoinPool-5-worker-13/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
 [20Jan2025 00:32:49.678] [ForkJoinPool-5-worker-13/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EddyChael
 [20Jan2025 00:32:49.813] [ForkJoinPool-5-worker-13/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[20Jan2025 00:47:04.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> guille
