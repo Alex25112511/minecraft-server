@@ -7337,6 +7337,7 @@
       "chorus_fruit": "2025-01-19 19:11:41 +0000",
       "porkchop": "2025-01-19 19:23:30 +0000",
       "apple": "2024-12-22 00:44:23 +0000",
+      "cooked_cod": "2025-01-20 02:39:56 +0000",
       "bread": "2024-12-22 14:00:49 +0000",
       "melon_slice": "2024-12-22 21:06:08 +0000",
       "cooked_chicken": "2024-12-21 17:04:56 +0000"
@@ -8875,7 +8876,9 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/black.png": "2025-01-20 02:25:29 +0000"
+      "textures/entity/cat/black.png": "2025-01-20 02:25:29 +0000",
+      "textures/entity/cat/siamese.png": "2025-01-20 02:44:35 +0000",
+      "textures/entity/cat/ragdoll.png": "2025-01-20 02:43:30 +0000"
     },
     "done": false
   },
