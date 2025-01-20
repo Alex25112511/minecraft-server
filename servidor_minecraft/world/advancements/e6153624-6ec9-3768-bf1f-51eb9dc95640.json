@@ -7271,6 +7271,7 @@
       "golden_apple": "2024-12-28 23:14:41 +0000",
       "rotten_flesh": "2024-12-28 23:11:25 +0000",
       "melon_slice": "2025-01-12 21:37:05 +0000",
+      "cod": "2025-01-19 23:51:20 +0000",
       "carrot": "2024-12-28 23:12:14 +0000"
     },
     "done": false
@@ -8910,7 +8911,10 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/tabby.png": "2025-01-19 23:18:31 +0000",
-      "textures/entity/cat/jellie.png": "2025-01-19 23:06:10 +0000"
+      "textures/entity/cat/white.png": "2025-01-19 23:52:54 +0000",
+      "textures/entity/cat/jellie.png": "2025-01-19 23:06:10 +0000",
+      "textures/entity/cat/british_shorthair.png": "2025-01-19 23:52:19 +0000",
+      "textures/entity/cat/red.png": "2025-01-19 23:52:09 +0000"
     },
     "done": false
   },
