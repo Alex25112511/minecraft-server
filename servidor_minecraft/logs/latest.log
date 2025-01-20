@@ -176,3 +176,27 @@
 [20Jan2025 02:55:09.958] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Garetexe (18)
 [20Jan2025 02:55:09.958] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Garetexe
 [20Jan2025 02:55:16.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> lo viste?
+[20Jan2025 02:56:14.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,-14.35245482538631,0.0
+[20Jan2025 02:56:14.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,-16.31354666058617,0.0
+[20Jan2025 02:56:14.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! -0.05969784703302139,-18.54630248031016,0.20094060046364604
+[20Jan2025 02:56:57.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> ya alejandro apagara
+[20Jan2025 02:56:59.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> salte
+[20Jan2025 02:57:01.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe lost connection: Disconnected
+[20Jan2025 02:57:01.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe left the game
+[20Jan2025 02:57:01.508] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Garetexe
+[20Jan2025 02:57:01.508] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Garetexe[e6153624-6ec9-3768-bf1f-51eb9dc95640]
+[20Jan2025 03:00:07.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[20Jan2025 03:00:07.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ///////<--[HERE]
+[20Jan2025 03:00:15.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[20Jan2025 03:00:15.873] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.AbstractConnector/]: Stopped ServerConnector@6e069c49{HTTP/1.1, (http/1.1)}{0.0.0.0:8888}
+[20Jan2025 03:00:15.876] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.handler.ContextHandler/]: Stopped m.l.o.e.j.s.ServletContextHandler@14ef355d{/,union:/workspaces/minecraft-server/servidor_minecraft/mods/MTR-forge-1.18.2-3.2.2-hotfix-1.jar%2388!/assets/mtr/website,STOPPED}
+[20Jan2025 03:00:15.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Jan2025 03:00:15.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Jan2025 03:00:15.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Jan2025 03:00:15.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Jan2025 03:00:15.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Jan2025 03:00:15.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Jan2025 03:00:16.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Jan2025 03:00:16.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Jan2025 03:00:16.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Jan2025 03:00:16.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
