@@ -1765,6 +1765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-20 01:34:13 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_sleeping_bag": "2024-12-22 00:14:12 +0000"
@@ -4700,6 +4706,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-20 01:34:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-28 02:12:28 +0000"
@@ -5619,6 +5631,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-01-20 01:34:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_katana": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 02:14:45 +0000"
@@ -6099,6 +6117,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-20 01:34:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/username_logger": {
     "criteria": {
       "has_redstone": "2024-12-22 17:54:13 +0000"
@@ -6247,6 +6271,12 @@
     "criteria": {
       "has_the_recipe": "2024-12-22 00:14:12 +0000",
       "has_sleeping_bag": "2024-12-22 00:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-20 01:34:13 +0000"
     },
     "done": true
   },
@@ -8192,6 +8222,12 @@
   "securitycraft:recipes/securitycraft/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-23 03:22:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-01-20 01:34:13 +0000"
     },
     "done": true
   },
